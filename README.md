@@ -26,7 +26,7 @@ architecture and verified using a self-checking testbench in Icarus Verilog.
 
 ## Simulation Waveform
 
-![Waveform](Waveform.png)
+![Waveform](Waveforms.png)
 
 Each 10ns window represents one operation being tested. The opcode steps 
 through 000 to 111, with A, B, and result shown in hexadecimal. 
